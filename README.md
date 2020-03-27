@@ -1,3 +1,4 @@
+## 推荐一个app挖的区块链PI币(非坑)：详情：[pi币教程，地址](http://www.opfor.top)，官网地址：https://minepi.com/，邀请码是Bweird
 ## 演示地址
 
 [www.lenosp.cn](http://www.lenosp.cn)  admin 123456 [博客blog.lenosp.cn](http://blog.lenosp.cn)
@@ -104,7 +105,7 @@ java -jar len-web.jar
           <td><img src="https://s1.ax1x.com/2018/12/11/FYwnR1.gif"/></td>
       <tr>
       <tr>
-          <td><img src="https://s2.ax1x.com/2019/05/12/EhyVht.jpg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143111_1d05f27e_907437.jpeg"/></td>
           <td><img src="https://images.gitee.com/uploads/images/2019/1017/214012_77513b79_907437.png"/></td>
       <tr>
       <tr>
@@ -116,16 +117,16 @@ java -jar len-web.jar
           <td><img src="https://images.gitee.com/uploads/images/2019/1017/214012_9c5675a5_907437.jpeg"/></td>
       <tr>
       <tr>
-          <td><img src="https://s2.ax1x.com/2019/05/12/EhyPne.jpg"/></td>
-          <td><img src="https://s2.ax1x.com/2019/05/12/Ehym1f.jpg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143111_c6e283c7_907437.jpeg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143113_e258761b_907437.jpeg"/></td>
       <tr>
       <tr>
-          <td><img src="https://s2.ax1x.com/2019/05/12/Ehync8.jpg"/></td>
-          <td><img src="https://s2.ax1x.com/2019/05/12/EhyAAA.jpg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143111_406a7b29_907437.jpeg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143115_8f4dbd48_907437.jpeg"/></td>
       <tr>
       <tr>
-          <td><img src="https://s2.ax1x.com/2019/05/12/Ehyp6O.jpg"/></td>
-          <td><img src="https://s2.ax1x.com/2019/05/12/Ehszp6.jpg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143114_39459a87_907437.jpeg"/></td>
+          <td><img src="https://images.gitee.com/uploads/images/2020/0327/143114_41c06c70_907437.jpeg"/></td>
       <tr>
       </table>
    

@@ -1,4 +1,5 @@
-## 推荐一个app挖的区块链PI币(非坑)：详情：[pi币教程，地址](http://www.opfor.top)，官网地址：https://minepi.com/，邀请码是Bweird
+## 推荐一个app挖的区块链PI币(非坑)：详情：[pi币教程](http://www.opfor.top)，官网地址：https://minepi.com/
+邀请码是Bweird
 ## 演示地址
 
 [www.lenosp.cn](http://www.lenosp.cn)  admin 123456 [博客blog.lenosp.cn](http://blog.lenosp.cn)

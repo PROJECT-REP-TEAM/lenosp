@@ -101,14 +101,25 @@ layui.define(['layer', 'laytpl', 'element'], function(exports) {
             });
             $('.kit-side-fold').off('click').on('click', function() {
                 var _side = _doc.find('div.kit-side');
+                var _log1 = _doc.find('div.layui-logo1');
+                var left = _doc.find('ul.kit-header');
+
                 if (_side.hasClass('kit-sided')) {
                     _side.removeClass('kit-sided');
+                    _doc.find('div.kit-logo-mobile').removeClass('kit-logo-min');
                     _doc.find('div.layui-body').removeClass('kit-body-folded');
                     _doc.find('div.layui-footer').removeClass('kit-footer-folded');
+                    _log1.removeClass('layui-logo-hidden');
+                    left.removeClass('layui-layout-left-zone');
+                    left.addClass('layui-layout-left');
                 } else {
                     _side.addClass('kit-sided');
+                    _doc.find('div.kit-logo-mobile').addClass('kit-logo-min');
                     _doc.find('div.layui-body').addClass('kit-body-folded');
                     _doc.find('div.layui-footer').addClass('kit-footer-folded');
+                    _log1.addClass('layui-logo-hidden');
+                    left.removeClass('layui-layout-left');
+                    left.addClass('layui-layout-left-zone');
                 }
             });
             return that;

@@ -19,10 +19,10 @@
 <body class="kit-theme">
 <div class="layui-layout layui-layout-admin kit-layout-admin">
     <div class="layui-header">
-        <div class="layui-logo">len-脚手架</div>
-        <div class="layui-logo kit-logo-mobile"></div>
+        <div class="layui-logo layui-logo1">len-脚手架</div>
+        <div class="layui-logo layui-logo2 kit-logo-mobile">len</div>
         <div class="layui-hide-xs">
-            <ul class="layui-nav layui-layout-left kit-nav">
+            <ul class="layui-nav layui-layout-left kit-nav kit-header">
                 <li class="layui-nav-item"><a href="javascript:s();">会员管理</a></li>
                 <li class="layui-nav-item"><a href="javascript:;" kit-target
                                               data-options="{url:'/article/articleList',icon:'&#xe658;',title:'文章管理',id:'966'}">文章管理</a>
@@ -51,7 +51,7 @@
                                     class="layui-icon">&#xe658;</i> 绿</a></dd>
                     <dd><a href="javascript:;" data-skin="pink" style="color:#FA6086;"><i
                                     class="layui-icon">&#xe658;</i> 粉</a></dd>
-                    <dd><a href="javascript:;" data-skin="blue.1" style="color:#00c0ef;"><i
+                    <dd><a href="javascript:;" data-skin="blue" style="color:#00c0ef;"><i
                                     class="layui-icon">&#xe658;</i> 蓝</a></dd>
                     <dd><a href="javascript:;" data-skin="red" style="color:#dd4b39;"><i class="layui-icon">&#xe658;</i>
                             红</a></dd>

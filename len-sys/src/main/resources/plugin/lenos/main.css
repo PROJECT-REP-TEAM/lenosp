@@ -67,3 +67,27 @@
 body .layui-laypage .layui-laypage-curr .layui-laypage-em{
   background-color: #1E9FFF;
 }
+
+
+/*add*/
+.kit-theme .layui-layout-admin .layui-logo-hidden {
+  display: none;
+}
+
+.kit-theme .layui-layout-admin .layui-layout-left-zone {
+  position: absolute !important;
+  left: 20px;
+  top: 0
+}
+
+.kit-layout-admin .kit-logo-min {
+  display: block;
+  width: 50px;
+  border-bottom:0;
+}
+
+/*add end*/
+
+.kit-theme .layui-layout-admin .layui-logo-hidden {
+  display: none;
+}

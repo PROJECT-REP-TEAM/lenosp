@@ -152,7 +152,7 @@ a,button {
   display: none
 }
 
-.kit-layout-admin .kit-body-folded,.kit-layout-admin .kit-footer-folded {
+.kit-layout-admin .kit-header-folded,.kit-layout-admin .kit-body-folded,.kit-layout-admin .kit-footer-folded {
   left: 50px
 }
 
@@ -350,6 +350,10 @@ a,button {
   .kit-layout-admin .kit-logo-mobile {
     display: block;
     width: 50px
+  }
+
+  .kit-layout-admin .layui-logo-hidden {
+    display: none;
   }
 
   .kit-table .kit-search-mored {
